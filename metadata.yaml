@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26537
     wikipedia: http://en.wikipedia.org/wiki/Rudolf_Steiner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44821#Yhteiskunnallisen-kysymyksen-ydinkohdatNykyisyyden-ja-tulevaisuuden-el-m-nvaatimuksena
 gutenberg_issued: '2014-02-02'
 gutenberg_type: Text
 identifiers:
